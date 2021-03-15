@@ -54,7 +54,6 @@ Download and install the following applications:
 
 1. Brew install Yarn `brew install yarn` - _if needed brew install Node.js `brew install node`_
 1. Create a `package.json` file `yarn init`
-1. Add a Git ignore file `echo "/node_modules" >> .gitignore`
 1. Create an `index.js` file `touch index.js`
 
 ### ESLint setup tasks
