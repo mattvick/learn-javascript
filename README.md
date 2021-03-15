@@ -92,6 +92,7 @@ Typically when setting up a new project this would be the first step. To gently 
 1. Initialise a local Git repository `git init` - _if needed install Git_
 1. Create a remote Git repository on [GitLab](https://about.gitlab.com/)
 1. Add the remote repository to our project `git remote add origin git@gitlab.com:mattvick/learn-javascript.git`
+1. Add a `.gitignore` file to tell Git to [ignore certain files](https://help.github.com/articles/ignoring-files/) `echo "/node_modules" >> .gitignore`
 1. Add a read me file `echo "# Learn JavaScript" >> README.md`
 1. Add all changes in the working directory to Git's staging area `git add .`
 
