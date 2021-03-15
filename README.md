@@ -4,7 +4,7 @@
 
 1. Open Google Chrome
 1. Open any webpage
-1. Press <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>J</kbd> (Mac) to Open the the Chrome DevTools console - [Other ways to open the the Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools#open)
+1. Press <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>J</kbd> (Mac) to Open the the Chrome DevTools console - [Other ways to open Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools#open)
 1. Constants, strings and semicolons `const greeting = 'Hello';`
 1. Variables and numbers `var amount = 4;`
 1. Work through the [Language basics crash course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#language_basics_crash_course)
