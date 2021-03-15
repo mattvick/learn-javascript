@@ -116,3 +116,11 @@ To do more..
 ## Day 5 - ES6
 
 To do more..
+
+## Day 6 - TypeScript
+
+To do more..
+
+## Day 7 - React
+
+To do more..
