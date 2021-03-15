@@ -102,6 +102,7 @@ Typically when setting up a new project this would be the first step. To gently 
 ### Computer setup tasks
 
 1. Download and install [GitHub Desktop](https://desktop.github.com/)
+1. Install [GitLens Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ### Repository setup tasks
 
