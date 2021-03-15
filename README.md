@@ -115,6 +115,7 @@ To do more..
 
 ## Day 5 - Asynchronous JavaScript
 
+1. [Event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 1. [Read more](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 To do more..
