@@ -113,14 +113,20 @@ Typically when setting up a new project this would be the first step. To gently 
 
 To do more..
 
-## Day 5 - ES6
+## Day 5 - Asynchronous JavaScript
+
+1. [Read more](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 To do more..
 
-## Day 6 - TypeScript
+## Day 6 - ES6
 
 To do more..
 
-## Day 7 - React
+## Day 7 - TypeScript
+
+To do more..
+
+## Day 8 - React
 
 To do more..
