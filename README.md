@@ -5,6 +5,8 @@
 1. Open Google Chrome
 1. Open any webpage
 1. Press <kbd>Command</kbd> + <kbd>Option</kbd> + <kbd>J</kbd> (Mac) to Open the the Chrome DevTools console - [Other ways to open the the Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools#open)
+1. Constants, strings and semicolons `const greeting = 'Hello';`
+1. Variables and numbers `var amount = 4;`
 1. Work through the [Language basics crash course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#language_basics_crash_course)
 
 ## Day 1 - Project and account setup
@@ -61,15 +63,9 @@ Download and install the following applications:
 
 ## Day 2 - Coding
 
-1. Constants, strings and semicolons `const greeting = 'Hello';`
-1. Variables and numbers `var amount = 4;`
-1. Work through the [Language basics crash course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#language_basics_crash_course)
-
-To do more...
-
-1. [Operators](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/A_first_splash#operators)
 1. Objects and properties (literal notation) `const data = {};` - [read more](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 
+To do more...
 
 ## Day 3 - Git setup and pushing changes
 
@@ -113,6 +109,10 @@ Typically when setting up a new project this would be the first step. To gently 
 ## Day 4 - Git branches and merging
 
 1. Fetching vs pulling
-1. Merging
+1. Merging via merge requests
 
-To do
+To do more..
+
+## Day 5 - ES6
+
+To do more..
